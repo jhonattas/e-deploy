@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">E-Deploy</string>
+    <string name="title_activity_check_number">CheckNumberActivity</string>
+
+    <string name="search">Buscar</string>
+    <string name="city">Cidade</string>
+    <string name="cities">Cidades</string>
+    <string name="state">Estado</string>
+    <string name="states">Estados</string>
+    <string name="points">Pontos</string>
+    <string name="list_all_cities">Listar todas cidades</string>
+    <string name="sort_list_by_city">Ordenar lista por cidade</string>
+    <string name="sort_list_by_state">Ordenar por Estado</string>
+    <string name="is">é</string>
+    <string name="the_punctuation_of">A pontuação de</string>
+    <string name="empty">Nenhum resultado encontrado para sua busca</string>
+</resources>
